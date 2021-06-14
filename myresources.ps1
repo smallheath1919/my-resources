@@ -1,3 +1,6 @@
+#Author: Srijit Bose
+#CreatedOn: 2021-06-15
+#License: GNU GPL v3
 #Parameters
 Param (
     [string]$resource, #resource type. Not Mandatory. Defines the type of resource you want to list. Default {Resource Groups, All Resources}
